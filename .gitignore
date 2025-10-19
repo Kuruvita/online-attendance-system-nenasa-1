@@ -1,6 +1,7 @@
-
+node_modules/.cache/
 .env 
 npm-debug.log* 
 dist/ 
 .DS_Store 
 .vscode/ 
+node_modules/.cache/ 
